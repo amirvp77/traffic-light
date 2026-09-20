@@ -144,7 +144,11 @@ body {
     opacity: 0;
   }
 }
-
+@media (max-width: 768px) {
+  .uiverse-midnight-sky .moon {
+    top: 5%;
+  }
+}
 .traffic-light {
   display: flex;
   flex-direction: column;
@@ -195,6 +199,6 @@ body {
 }
 .polo {
   width: 25px;
-  height: 200px;
+  height: 250px;
   background-color: #333;
 }

@@ -1,48 +1,51 @@
 # 🚦 Traffic Light
 
-A simple Traffic Light project built with **HTML, CSS, and JavaScript**.
+یک پروژه ساده شبیه‌سازی چراغ راهنمایی با استفاده از HTML، CSS و JavaScript.
 
-## 📌 About
+## 📌 درباره پروژه
 
-This project simulates a traffic light using JavaScript.
-The lights change automatically based on the current time and JavaScript `Date` object.
+در این پروژه، عملکرد چراغ راهنمایی با استفاده از JavaScript شبیه‌سازی شده است.
 
-## 🛠️ Technologies
+چراغ‌ها به‌صورت خودکار و بر اساس زمان، با استفاده از شیء `Date` در جاوااسکریپت، تغییر می‌کنند.
 
-* HTML
-* CSS
-* JavaScript
-* Date Object
-* setInterval
+## 🛠️ تکنولوژی‌های استفاده‌شده
 
-## ✨ Features
+- HTML
+- CSS
+- JavaScript
+- Date Object
+- setInterval
 
-* 🔴 Red light
-* 🟡 Yellow light
-* 🟢 Green light
-* Automatic light switching
-* Time-based control using JavaScript
+## ✨ امکانات پروژه
 
-## 🎯 Purpose
+- 🔴 چراغ قرمز
+- 🟡 چراغ زرد
+- 🟢 چراغ سبز
+- تغییر خودکار چراغ‌ها
+- کنترل زمان‌بندی با استفاده از JavaScript
 
-The purpose of this project is to practice:
+## 🎯 هدف پروژه
 
-* JavaScript `Date`
-* `setInterval`
-* DOM manipulation
-* Working with time and seconds
-* Changing CSS classes dynamically
+هدف از ساخت این پروژه، تمرین مفاهیم زیر بوده است:
 
-## 🚀 How to Run
+- کار با شیء `Date` در JavaScript
+- استفاده از `setInterval` برای اجرای مکرر کد
+- دست‌کاری عناصر صفحه با DOM
+- کار با زمان و ثانیه‌ها
+- تغییر پویای کلاس‌های CSS با استفاده از JavaScript
 
-1. Clone the repository.
-2. Open the project folder.
-3. Open the project in your browser.
+## 🚀 اجرای پروژه
 
-## 🌐 Live Demo
+۱. مخزن پروژه را از GitHub دریافت کنید.
 
-[View Live Demo](https://traffic-light-qb0iwusgo-amirvp77s-projects.vercel.app/)
+۲. وارد پوشه پروژه شوید.
+
+۳. فایل `index.html` را در مرورگر باز کنید.
+
+## 🌐 پیش‌نمایش آنلاین
+
+[مشاهده پروژه Traffic Light](https://traffic-light-qb0iwusgo-amirvp77s-projects.vercel.app/)
 
 ---
 
-Made with ❤️ using JavaScript.
+ساخته‌شده با ❤️ و JavaScript
